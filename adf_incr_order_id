@@ -71,7 +71,7 @@
   },
   {
     "OrderID": 1007,
-    "CustomerID": "C003",
+    "CustomerID": "C50",
     "OrderDate": "2024-05-03T15:00:00Z",
     "UpdatedDate": "2024-05-09T10:00:00Z",
     "Amount": 230.0
